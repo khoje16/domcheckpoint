@@ -1,0 +1,28 @@
+img{
+    width: 20vw;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #cart {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  #cart-items {
+    list-style-type: none;
+    padding: 0;
+    color: white;
+  }
+  
+  .futa{
+    width: auto;
+    color: white;
+    display: grid;
+    justify-content: center;
+  }
+  
